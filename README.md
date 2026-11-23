@@ -15,4 +15,4 @@ MLOps lifecycle bruh
 9. **CI/CD Pipeline** – Automate testing, training, and deployment.
 10. **Model Deployment** – Deploy the model as a REST API using Docker/Kubernetes.
 11. **Monitoring** – Monitor prediction accuracy, latency, and system performance.
-12. **Drift Detection & Retraining** – Detect data/concept drift and retrain the model when necessary.
+12. **Drift Detection & Retraining** – Detect data or concept drift and retrain the model when necessary.
